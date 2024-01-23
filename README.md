@@ -1,4 +1,4 @@
-# companyName application
+# Aws Architecture with Terraform
 
 ## Sommaire de la documentation
 - [Installation des prérequis pour terraform](docs/1_install_prerequisites.md)
